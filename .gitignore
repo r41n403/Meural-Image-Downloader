@@ -1,0 +1,15 @@
+# Saved browser session — contains auth cookies, never commit
+meural_session.json
+
+# Download manifest — personal to your machine
+meural_downloaded.txt
+
+# Downloaded images
+meural_downloads/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
